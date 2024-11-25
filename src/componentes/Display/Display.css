@@ -1,0 +1,7 @@
+.display-topo{
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap:100px;
+    padding:30px;
+}

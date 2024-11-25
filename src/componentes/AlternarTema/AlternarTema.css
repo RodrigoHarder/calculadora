@@ -1,0 +1,12 @@
+@import "../../estilos/global.css";
+
+.mudar-tema{
+    width:100px;
+    height:44px;
+    background-color: var(--cor-temas);
+    border-radius:40px;
+
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+}

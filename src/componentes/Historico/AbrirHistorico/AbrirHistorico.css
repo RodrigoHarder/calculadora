@@ -1,0 +1,12 @@
+.display-historico{
+    font-family: 'Quicksand', sans-serif;
+    font-size:30px;
+    font-weight: 800;
+    color:#373737;
+}
+
+.botao-historico{
+    border:none;
+    background:none;
+    cursor:pointer;
+}

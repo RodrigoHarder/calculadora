@@ -1,0 +1,31 @@
+@import "../../estilos/global.css";
+
+.display-container{
+    height: 251px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    gap:20px;
+    margin:20px 30px;
+
+    font-family: 'Quicksand', sans-serif;
+    color:var(--cor-da-fonte);
+}
+
+.display-input{
+    font-size: 22px;
+    font-weight: 500;
+    color:#BDB7B2;
+}
+
+.display-resultado{
+    width: 360px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+
+    font-size:40px;
+    font-weight: 800;
+}

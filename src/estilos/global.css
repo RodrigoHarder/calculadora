@@ -1,0 +1,49 @@
+:root{
+    --cor-da-fonte: #373737;
+    --fundo-solido: #FBFBFB;
+    --background-teclado: linear-gradient(126deg, rgba(216, 238, 255, 1) 0%, rgba(136, 205, 251, 1) 49%, rgba(216, 238, 255, 1) 100%);
+    --divisor: #6396c5;
+    --background-calculadora: linear-gradient(180deg, rgba(254,254,254,1) 0%, rgba(249,249,249,1) 15%, rgba(243,243,243,1) 40%, rgba(229,229,229,1) 100%);
+    --cor-temas:#A9DCFD;
+
+    .botao-tema-light{
+        width:90px;
+        height:44px;
+        background-color: #D8EEFF;
+        border-radius:40px;
+        border:none;
+        cursor:pointer;
+    }
+
+    .botao-tema-dark{
+        border:none;
+        background:none;
+        cursor:pointer;
+        width:60px;
+    }
+}
+
+.dark-theme{
+    --cor-da-fonte: #FBFBFB;
+    --fundo-solido: #252628;
+    --background-teclado: linear-gradient(126deg, rgba(0,34,61, 1) 0%, rgba(18,71,104, 1) 49%, rgba(0,34,61, 1) 100%);
+    --divisor: #3D76AB;
+    --background-calculadora: linear-gradient(180deg, rgba(55,55,55,1) 0%, rgba(55,55,55,1) 15%, rgba(25,26,28,1) 40%, rgba(0,3,9,1) 100%);
+    --cor-temas:#124768;
+
+    .botao-tema-dark{
+        width:90px;
+        height:44px;
+        background-color: #00223D;
+        border-radius:40px;
+        border:none;
+        cursor:pointer;
+    }
+    .botao-tema-light{
+        border:none;
+        background:none;
+        cursor:pointer;
+        width:60px;
+    }
+}
+
