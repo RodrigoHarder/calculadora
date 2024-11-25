@@ -5,6 +5,7 @@
     --divisor: #6396c5;
     --background-calculadora: linear-gradient(180deg, rgba(254,254,254,1) 0%, rgba(249,249,249,1) 15%, rgba(243,243,243,1) 40%, rgba(229,229,229,1) 100%);
     --cor-temas:#A9DCFD;
+    --cor-botoes:rgba(255, 255, 255, 0.3);
 
     .botao-tema-light{
         width:90px;
@@ -30,6 +31,7 @@
     --divisor: #3D76AB;
     --background-calculadora: linear-gradient(180deg, rgba(55,55,55,1) 0%, rgba(55,55,55,1) 15%, rgba(25,26,28,1) 40%, rgba(0,3,9,1) 100%);
     --cor-temas:#124768;
+    --cor-botoes:rgba(5, 5, 5, 0.3);
 
     .botao-tema-dark{
         width:90px;
